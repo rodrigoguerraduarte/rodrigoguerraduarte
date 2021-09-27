@@ -1,4 +1,6 @@
-### Hi there 👋
+ # **Hi, I´m Rodrigo Duarte** 👋
+###
+![GitHub](graficos-bm-editada.jpg)
 
 <!--
 **rodrigoguerraduarte/rodrigoguerraduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
